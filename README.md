@@ -1,6 +1,8 @@
 # Koch-snowflake
 Использован фреймворк <a href="https://ru.wikipedia.org/wiki/Qt">Qt</a> 5.15.
 
+(exe for Windows 10 x64): https://drive.google.com/drive/folders/1LbJbf9xqP1tdgSyLyqi-Hd6H-BiqgjKw?usp=sharing
+
 Строит фрактал "<a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D0%9A%D0%BE%D1%85%D0%B0">Снежинка Коха</a>" в разных вариациях.
 
 → - Переход построения на шаг вперёд.
