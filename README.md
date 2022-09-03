@@ -10,3 +10,5 @@ Left - Переход построения на шаг назад.
 Down - Переключает исходную фигуру (тругольник/квадрат).
 
 Up - Меняет направление построения фрактала.
+
+[](https://github.com/IlyaVir/Koch-snowflake/blob/main/Screenshots/Koch_0.png)
