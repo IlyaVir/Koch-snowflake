@@ -11,4 +11,10 @@ Down - Переключает исходную фигуру (тругольни�
 
 Up - Меняет направление построения фрактала.
 
-![0](https://github.com/IlyaVir/Koch-snowflake/blob/main/Screenshots/Koch_0.png)
+![](https://github.com/IlyaVir/Koch-snowflake/blob/main/Screenshots/Koch_0.png)
+
+![](https://github.com/IlyaVir/Koch-snowflake/blob/main/Screenshots/Koch_1.png)
+
+![](https://github.com/IlyaVir/Koch-snowflake/blob/main/Screenshots/Koch_2.png)
+
+![](https://github.com/IlyaVir/Koch-snowflake/blob/main/Screenshots/Koch_3.png)
